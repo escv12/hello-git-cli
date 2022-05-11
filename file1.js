@@ -3,3 +3,4 @@ Hello git
 third - mybrach1
 fourth - mybrach1
 hot bug fixed
+add function 1
